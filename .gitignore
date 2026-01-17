@@ -9,5 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-# 训练模型
-models/*.pkl
+# pkl artifacts
+models/*
+!models/.gitkeep
